@@ -1,0 +1,17 @@
+body {
+    overflow: hidden;
+}
+.navbar {
+    margin-bottom: 0;
+}
+#nav-text {
+    color: inherit;
+}
+#points li:hover {
+    background-color: rgb(238, 238, 238);
+    cursor: pointer;
+}
+#sidebar {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
